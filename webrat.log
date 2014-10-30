@@ -1,0 +1,22 @@
+# Logfile created on 2014-10-30 04:30:51 -0400 by logger.rb/31641
+D, [2014-10-30T04:30:51.231959 #8508] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T04:31:39.139643 #5732] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T04:32:49.831368 #6408] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T04:37:21.500846 #2188] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T04:49:11.267987 #1896] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T04:50:39.990444 #8368] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T04:50:40.037244 #8368] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T04:55:25.242380 #4796] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T04:59:07.825980 #5304] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T04:59:07.950780 #5304] DEBUG -- : REQUESTING PAGE: GET /jugar with {"Jugar"=>"Jugar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-30T05:00:59.633765 #1940] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T05:00:59.664965 #1940] DEBUG -- : REQUESTING PAGE: GET /jugar with {"Jugar"=>"Jugar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-30T05:01:51.788864 #8760] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T05:01:51.835664 #8760] DEBUG -- : REQUESTING PAGE: GET /jugar with {"Jugar"=>"Jugar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-30T05:01:51.835664 #8760] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-10-30T05:09:11.561411 #3968] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T05:09:11.608211 #3968] DEBUG -- : REQUESTING PAGE: GET /jugar with {"Jugar"=>"Jugar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-30T05:09:11.608211 #3968] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-10-30T05:11:37.048741 #4840] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-10-30T05:11:37.095541 #4840] DEBUG -- : REQUESTING PAGE: GET /jugar with {"Jugar"=>"Jugar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-10-30T05:11:37.095541 #4840] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
