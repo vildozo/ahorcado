@@ -5,6 +5,8 @@ get '/' do
 end
 
 get '/jugar' do
+	@palabra="gato"
+	@espacio = @palabra
 	erb :jugar
 end
 

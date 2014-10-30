@@ -9,3 +9,5 @@ end
 Then(/^deberia ir a la pagina para jugar$/) do
   visit '/jugar'
 end
+
+
