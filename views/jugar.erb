@@ -1,2 +1,18 @@
-<p>Bienvenido como esta usted</p>
-<%= @espacio.gsub!(/[a-z]/,"- ") %>
+<h1> A H O R C A D O </h1>
+
+
+<h1><%= @espacio %></h1>
+<form action="/jugar" name="jugando" method="post">
+	<input type="text" name="letra">
+	<input type="submit" name="Insertar" value="Insertar">
+	<input type="hidden" name="errores" value=<%=@errores%>
+</form>
+
+<p> Cantidad de errores <%= @errores %>/3</p>
+
+
+
+
+
+
+

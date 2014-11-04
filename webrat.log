@@ -89,3 +89,162 @@ D, [2014-10-30T06:01:44.776301 #5796] DEBUG -- : REQUESTING PAGE: GET / with {} 
 D, [2014-10-30T06:01:44.807502 #5796] DEBUG -- : REQUESTING PAGE: GET /jugar with {"Jugar"=>"Jugar"} and HTTP headers {"HTTP_REFERER"=>"/"}
 D, [2014-10-30T06:01:44.807502 #5796] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
 D, [2014-10-30T06:01:44.823102 #5796] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T04:14:33.309499 #7576] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T04:14:33.356299 #7576] DEBUG -- : REQUESTING PAGE: GET /jugar with {"Jugar"=>"Jugar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T04:14:33.356299 #7576] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T04:14:33.356299 #7576] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T04:35:45.190975 #1220] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T04:35:45.237775 #1220] DEBUG -- : REQUESTING PAGE: GET /jugar with {"Jugar"=>"Jugar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T04:35:45.237775 #1220] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T04:35:45.253375 #1220] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T04:37:40.785579 #5740] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T04:37:40.832379 #5740] DEBUG -- : REQUESTING PAGE: GET /jugar with {"Jugar"=>"Jugar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T04:37:40.832379 #5740] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T04:37:40.847979 #5740] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T04:54:20.459656 #604] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T04:54:20.490856 #604] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T04:54:20.506456 #604] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T04:54:20.522056 #604] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T04:57:31.470276 #7584] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T04:57:31.517076 #7584] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T04:57:31.517076 #7584] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T04:57:31.532676 #7584] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:04:00.117226 #6336] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:04:00.148426 #6336] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:04:00.164026 #6336] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:04:00.179626 #6336] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:10:03.934698 #6368] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:10:03.965898 #6368] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:10:03.981498 #6368] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:10:03.997098 #6368] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:11:00.200397 #1644] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:11:00.247197 #1644] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:11:00.247197 #1644] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:11:00.262798 #1644] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:12:15.658333 #6128] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:12:15.705134 #6128] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:12:15.705134 #6128] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:12:15.720734 #6128] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:12:15.720734 #6128] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:13:18.119244 #864] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:13:18.166044 #864] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:13:18.166044 #864] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:13:18.181644 #864] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:13:18.212844 #864] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:17:59.743142 #7848] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:17:59.774342 #7848] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:17:59.789942 #7848] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:17:59.805542 #7848] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:18:53.852037 #4224] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:18:53.898837 #4224] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:18:53.914437 #4224] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:18:53.914437 #4224] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:18:53.914437 #4224] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:20:08.663372 #8104] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:20:08.710172 #8104] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:20:08.710172 #8104] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:20:08.725772 #8104] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:20:08.725772 #8104] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:21:01.898666 #5264] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:21:01.945466 #5264] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:21:01.945466 #5264] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:21:01.961066 #5264] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:21:01.961066 #5264] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:27:45.373184 #6988] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:27:45.419984 #6988] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:27:45.419984 #6988] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:27:45.435585 #6988] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:27:45.435585 #6988] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:27:58.846409 #7504] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:27:58.877610 #7504] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:27:58.893210 #7504] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:27:58.908810 #7504] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:29:59.881824 #8140] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:29:59.928624 #8140] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:29:59.944224 #8140] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:29:59.944224 #8140] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:30:37.469290 #1016] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:30:37.516090 #1016] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:30:37.516090 #1016] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:30:37.531690 #1016] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:30:37.531690 #1016] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:32:02.284441 #756] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:32:02.331241 #756] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:32:02.346841 #756] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:35:12.121980 #5264] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:35:12.168780 #5264] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:35:12.184380 #5264] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:35:45.873840 #3568] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:35:45.920640 #3568] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:35:45.936240 #3568] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:36:40.348536 #8092] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:36:40.395336 #8092] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:36:40.410936 #8092] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:37:54.918068 #7228] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:37:54.964868 #7228] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:37:54.980468 #7228] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:37:54.980468 #7228] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:37:54.996068 #7228] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:38:38.719346 #6584] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:38:38.750546 #6584] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:38:38.766146 #6584] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:38:38.766146 #6584] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:38:38.781746 #6584] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:39:34.899446 #7608] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:39:34.946246 #7608] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:39:34.946246 #7608] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:39:34.961846 #7608] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:39:34.961846 #7608] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:41:07.237413 #3896] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:41:07.284213 #3896] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:41:07.299813 #3896] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:41:07.299813 #3896] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:41:07.315413 #3896] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:42:02.226910 #5612] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:42:02.273711 #5612] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:42:02.273711 #5612] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:42:02.289311 #5612] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:42:02.289311 #5612] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:43:17.107046 #2916] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:43:17.138246 #2916] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:43:17.153846 #2916] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:43:17.153846 #2916] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:43:17.169446 #2916] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:46:36.409401 #7676] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:46:36.456201 #7676] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0", "letra"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:46:36.456201 #7676] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:46:36.471801 #7676] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:46:36.487402 #7676] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:48:17.755581 #6976] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:48:17.802381 #6976] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0", "letra"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:48:17.817981 #6976] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:48:17.817981 #6976] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:48:17.833581 #6976] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:50:23.800004 #6564] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:50:23.846805 #6564] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0", "letra"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:50:23.862405 #6564] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:50:23.862405 #6564] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:50:23.862405 #6564] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:51:14.509900 #6480] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:51:14.556700 #6480] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0", "letra"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:51:14.556700 #6480] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:51:14.572300 #6480] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:51:14.572300 #6480] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:53:16.861657 #7344] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:53:16.892857 #7344] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0", "letra"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:53:16.908457 #7344] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:53:16.908457 #7344] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:53:16.924057 #7344] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:57:37.267441 #7136] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:57:37.329841 #7136] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:57:37.345441 #7136] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:58:02.268686 #7996] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T05:58:02.315486 #7996] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0", "letra"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T05:58:02.331086 #7996] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T05:58:02.331086 #7996] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T05:58:02.346686 #7996] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T06:05:23.329293 #3904] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2014-11-04T06:05:23.360493 #3904] DEBUG -- : REQUESTING PAGE: POST /jugar with {"Jugar"=>"Jugar", "errores"=>"0", "letra"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2014-11-04T06:05:23.376093 #3904] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {"HTTP_REFERER"=>"/jugar"}
+D, [2014-11-04T06:05:23.391693 #3904] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
+D, [2014-11-04T06:05:23.391693 #3904] DEBUG -- : REQUESTING PAGE: GET /jugar with {} and HTTP headers {}
