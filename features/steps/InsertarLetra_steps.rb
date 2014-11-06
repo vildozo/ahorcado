@@ -1,11 +1,12 @@
 Given(/^me encuentro en la pagina de juego$/) do
-  visit '/jugar'
+  visit '/'
+  click_button('Jugar')
+  #visit '/jugar'
 end
 
-Given(/^ingresa un caracter "(.*?)"$/) do |letra|
-  @letra=letra
+Given(/^asigno a "(.*?)" caracter "(.*?)"$/) do |field, value|
+  fill_in(field, :with => value)
 end
-
 
 Then(/^deberia mostrar "(.*?)"$/) do |arg1|
   pending # express the regexp above with the code you wish you had
