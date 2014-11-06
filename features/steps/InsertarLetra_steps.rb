@@ -9,8 +9,5 @@ Given(/^asigno a "(.*?)" caracter "(.*?)"$/) do |field, value|
 end
 
 Then(/^deberia mostrar "(.*?)"$/) do |oculta|
-#  visit '/'
-#  click_button('Jugar')
-#  visit '/jugar'
   expect(last_response.body).to include(oculta)
 end

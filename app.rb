@@ -42,3 +42,8 @@ get '/agregar_palabras' do
 	erb :agregar_palabras.erb
 end
 
+
+post '/mensaje' do
+	
+end
+
