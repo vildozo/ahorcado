@@ -10,13 +10,15 @@ get '/' do
 end
 
 post '/jugar' do
-	
+	@espacio= params[:espacio]
 	@letra= params[:letra]
 	@errores = params[:errores]
 	@palabra=@diccionario[0]
-	@espacio = @palabra.gsub(/[a-z]/,"-")
 	@i=0
 	@tam=@palabra.length
+	if @espacio==""
+		@espacio = @palabra.gsub(/[a-z]/,"-")
+	end
 
 	if @letra != ""
 		if @palabra.index(@letra)!= nil

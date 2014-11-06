@@ -4,8 +4,9 @@
 <h1><%= @espacio %></h1>
 <form action="/jugar" name="hang" method="post">
 	<input type="text" name="letra">
-	<input type="submit" value="Insertar"
-	<input type="hidden" name="" value=<%=@espacio%>>
+	<input type="hidden" name="espacio" value=<%=@espacio%>>
+	<input type="submit" value="Insertar">
+	
 </form>
 
 
