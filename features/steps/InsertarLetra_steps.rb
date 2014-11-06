@@ -8,6 +8,9 @@ Given(/^asigno a "(.*?)" caracter "(.*?)"$/) do |field, value|
   fill_in(field, :with => value)
 end
 
-Then(/^deberia mostrar "(.*?)"$/) do |arg1|
-  pending # express the regexp above with the code you wish you had
+Then(/^deberia mostrar "(.*?)"$/) do |oculta|
+#  visit '/'
+#  click_button('Jugar')
+#  visit '/jugar'
+  expect(last_response.body).to include(oculta)
 end

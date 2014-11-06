@@ -2,9 +2,11 @@
 
 
 <h1><%= @espacio %></h1>
+<p>usted tiene Errores <%=@errores%>/3</p>
 <form action="/jugar" name="hang" method="post">
 	<input type="text" name="letra">
 	<input type="hidden" name="espacio" value=<%=@espacio%>>
+	<input type="hidden" name="errores" value=<%=@errores%>>
 	<input type="submit" value="Insertar">
 	
 </form>
