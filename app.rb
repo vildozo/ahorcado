@@ -2,6 +2,7 @@ require 'sinatra'
 
 before do
   @diccionario=["perro","gato"]
+  
 end
 
 
@@ -34,7 +35,15 @@ post '/jugar' do
 			@errores = @suma.to_s
 		end
 	end
-
+	if (@errores==3)
+		redirect_to :controller => 'thing', :action => 'edit', :id => 3, :something => 'else'
+	end
+	if (@espacio==@palabra)
+		redirect "/ganador"
+	end 
+	if(@errores == "3")
+		redirect "/"
+	end
 	erb :jugar
 end
 
@@ -45,5 +54,9 @@ end
 
 post '/mensaje' do
 	
+end
+
+get '/ganador' do
+  erb :ganador
 end
 
