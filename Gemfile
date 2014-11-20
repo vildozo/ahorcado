@@ -1,5 +1,5 @@
 # A sample Gemfile
-source "https://rubygems.org"
+source "http://rubygems.org"
 
 gem "sinatra"
 gem "cucumber"
@@ -9,3 +9,4 @@ gem "rspec"
 gem "simplecov"
 gem "simplecov-console"
 gem "rake"
+gem "heroku"
